@@ -3,6 +3,9 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background: rgb(95, 20, 138);
+  background: radial-gradient(circle, rgb(91, 42, 131) 10%, rgba(0, 0, 0, 1) 100%);
+
 }
 
 .logo {
